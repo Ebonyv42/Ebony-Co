@@ -48,16 +48,6 @@ body {
 
 
  }
-
-
-
-
-
-
-
-
-
-
 .background {
     border: solid;
     border-left: 5px solid;
@@ -68,4 +58,8 @@ body {
     margin-bottom: -15px;
     margin-left: -1px;
     margin-right: -5px;
+}
+a {
+  text-decoration: none;
+  color: rgb(0,0,0);
 }
