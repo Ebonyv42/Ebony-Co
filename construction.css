@@ -1,0 +1,28 @@
+body {
+    background-color: #ffffff;
+}
+
+
+
+
+
+
+.title {
+    color: black;
+    border: 5px solid;
+    border-color: white;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 250px;
+    font-size: 30px;
+    margin-right: 300px;
+    margin-left: 300px;
+    background-color: white;
+
+}
+
+.h2 {
+  margin-bottom: 55px;
+  font-size: 15px;
+
+}
